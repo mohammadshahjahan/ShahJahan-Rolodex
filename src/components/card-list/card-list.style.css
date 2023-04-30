@@ -22,3 +22,18 @@
 .card-container:hover {
   transform: scale(1.05);
 }
+@media (max-width: 600px) {
+  .card-list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media (min-width: 701px) and (max-width: 930px) {
+  .card-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 931px) and (max-width: 1030px) {
+  .card-list {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
