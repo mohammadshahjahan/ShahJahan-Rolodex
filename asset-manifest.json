@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShahJahan-Rolodex/static/css/main.51db15dc.css",
+    "main.js": "/ShahJahan-Rolodex/static/js/main.7d7abbd4.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/ShahJahan-Rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/ShahJahan-Rolodex/index.html",
+    "main.51db15dc.css.map": "/ShahJahan-Rolodex/static/css/main.51db15dc.css.map",
+    "main.7d7abbd4.js.map": "/ShahJahan-Rolodex/static/js/main.7d7abbd4.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/ShahJahan-Rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51db15dc.css",
+    "static/js/main.7d7abbd4.js"
+  ]
+}
